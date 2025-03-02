@@ -49,7 +49,7 @@ function sortearAmigo() {
 
     if (amigosDisponiveis.length === 0) {
         // Se todos os amigos já foram sorteados, reinicia a lista
-        amigosDisponiveis = [...amigos]; 
+        amigosDisponiveis = [...amigos]; git
         alert("Todos os amigos já foram sorteados! Reiniciando a lista...");
     }
 
